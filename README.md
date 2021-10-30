@@ -1,4 +1,4 @@
-# CanadianTire-Promo-Efficiency-Analysis
+# CanadianTire Promo Analysis
 
 ## Process
 ### - Loading
